@@ -1,4 +1,4 @@
-require 'pry'
+require 'pry' #method that loads the pry library in this file when app runs, similar to using the import keyword in ReactJS. 
 
 def prying_into_the_method
 	inside_the_method = "We're inside the method"
